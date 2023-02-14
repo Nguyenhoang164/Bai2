@@ -33,7 +33,7 @@ class thietkemenu {
                     case 3:
                         System.out.println("Draw the rectangle");
                         System.out.println("* * * * * *");
-                        System.out.println("* * * * * *");
+                        System.out.println("*         *");
                         System.out.println("* * * * * *");
                         break;
                     case 0:

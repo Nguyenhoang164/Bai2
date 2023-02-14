@@ -20,7 +20,7 @@ public class timuocchung {
                 } else {
                     b = b - a ;
                 }
-                System.out.println("ước chung lớn nhất là"  + a );
+                System.out.println("ước chung lớn nhất là "   + a );
             }
         }
 
